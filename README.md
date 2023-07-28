@@ -11,7 +11,7 @@ prévoir le prix de vente des biens immobiliers.
 Le travail à effectuer:
 
 - Préparer le dictionnaire des données en respectant le template pour répertorier et décrire les données importantes à stocker.
-- Modifier le schéma relationnel pour qu’il prenne en compte les nouvelles données région et population ? Ça permettra de bien visualiser les différentes entités, associations et cardinalités de la base de données. Il doit suivre la norme 3NF de la base de données qui donnera lieu à la création des nouvelles tables.
+- Modifier le schéma relationnel pour qu’il prenne en compte les nouvelles données région et population. Ça permettra de bien visualiser les différentes entités, associations et cardinalités de la base de données. Il doit suivre la norme 3NF de la base de données qui donnera lieu à la création des nouvelles tables.
 - Implémenter les tables dans la base de données 
 - Faire les requêtes pour extraire les données dont nous avons besoin. Utiliser des alias pour que ça soit plus lisible. 
 
