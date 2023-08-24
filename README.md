@@ -30,8 +30,6 @@ Le travail à effectuer:
 
 ![Capture2](https://github.com/JenniferLeuriot/BDD_immobiliere_MYSQL/assets/138499241/41f3a18c-37a1-45c9-b7a5-ba53f669f4fb)
 
-![Capture3](https://github.com/JenniferLeuriot/BDD_immobiliere_MYSQL/assets/138499241/e12d1c9f-3528-4f3c-91e2-7f9c2164e135)
-
 ![Capture1](https://github.com/JenniferLeuriot/BDD_immobiliere_MYSQL/assets/138499241/ce6b6a80-a878-4d33-aa8b-41389da9d6f2)
 
 ![Capture4](https://github.com/JenniferLeuriot/BDD_immobiliere_MYSQL/assets/138499241/c6ab6528-8734-40f7-894c-062582585b3b)
